@@ -1,0 +1,11 @@
+{
+	"controls": false,
+	"progress": true, 
+	"transition": "zoom",
+	"backgroundTransition": "slide",
+	"parallaxBackgroundImage": "sea.jpg",
+	"parallaxBackgroundSize": "2100px 900px",
+	"parallaxBackgroundHorizontal": 200,
+        "parallaxBackgroundVertical": 50
+	
+}
