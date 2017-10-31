@@ -36,7 +36,7 @@ Note: speaker notes FTW!
 
 ```
 
-The separator syntax can be overriden (e.g. I like to use three blank lines).
+The separator syntax can be overriden (e.g I like to use three blank lines).
 
 ## Speaker Notes
 
